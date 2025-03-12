@@ -28,3 +28,8 @@ Then, in your CMakeLists.txt
 find_package(openiap REQUIRED)
 target_link_libraries(your_target PRIVATE openiap::openiap)
 ```
+
+Clearing conan cache
+```
+conan remove "*" -c
+```

@@ -1,5 +1,5 @@
 [requires]
-openiap/1.0.0
+openiap/0.0.1
 
 [generators]
 CMakeDeps

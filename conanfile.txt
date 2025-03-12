@@ -1,0 +1,6 @@
+[requires]
+openiap/1.0.0
+
+[generators]
+CMakeDeps
+CMakeToolchain

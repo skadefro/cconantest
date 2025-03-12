@@ -1,0 +1,10 @@
+{
+    "name": "cconantest",
+    "version": "1.0.0",
+    "main": "test_openiap",
+    "openiap": {
+        "language": "exec",
+        "daemon": true,
+        "chromium": false
+    }
+}
